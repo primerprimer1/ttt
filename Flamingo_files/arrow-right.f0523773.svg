@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="15px" viewBox="0 0 24 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Flamingo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Home_DT" transform="translate(-604.000000, -1282.000000)" stroke="#FFFFFF">
+            <g id="Valut" transform="translate(580.000000, 978.000000)">
+                <g id="Group" transform="translate(24.000000, 305.000000)">
+                    <line x1="0.655490978" y1="6.5" x2="23" y2="6.5" id="Path"></line>
+                    <polyline id="Path-2" points="15.3333333 13 23 6.46726988 15.3333333 0"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

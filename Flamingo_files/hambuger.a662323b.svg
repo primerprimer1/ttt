@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Symbol / Menu / Enabled</title>
+    <g id="Symbol-/-Menu-/-Enabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <line x1="10.5" y1="12.5" x2="26" y2="12.5" id="Line" stroke="#FFFFFF" stroke-width="1.5"></line>
+        <line x1="10" y1="22.5" x2="25.5151515" y2="22.5" id="Line" stroke="#FFFFFF" stroke-width="1.5" transform="translate(18.000000, 22.500000) scale(-1, 1) translate(-18.000000, -22.500000) "></line>
+    </g>
+</svg>
